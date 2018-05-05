@@ -19,6 +19,6 @@ If the program is executed properly , you will get a message giving you the shif
 
 #### Decryption:
 You have to provide the path of the file to be decrypted and the path of the file to 
-store the output . You have to input the key output during encryption.
+store the output . You have to provide the key output during encryption.
 
 
